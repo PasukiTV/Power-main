@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "power:block/machine_side",
+    "east": "power:block/machine_side",
+    "north": "power:block/machine_side",
+    "particle": "power:block/machine_top",
+    "south": "power:block/machine_side",
+    "up": "power:block/solarcell_block_on",
+    "west": "power:block/machine_side"
+  }
+}

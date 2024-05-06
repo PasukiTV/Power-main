@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "facing=down,powered=false": {
+      "model": "power:block/solarcell_block_off"
+    },
+    "facing=down,powered=true": {
+      "model": "power:block/solarcell_block_on"
+    },
+    "facing=east,powered=false": {
+      "model": "power:block/solarcell_block_off"
+    },
+    "facing=east,powered=true": {
+      "model": "power:block/solarcell_block_on"
+    },
+    "facing=north,powered=false": {
+      "model": "power:block/solarcell_block_off"
+    },
+    "facing=north,powered=true": {
+      "model": "power:block/solarcell_block_on"
+    },
+    "facing=south,powered=false": {
+      "model": "power:block/solarcell_block_off"
+    },
+    "facing=south,powered=true": {
+      "model": "power:block/solarcell_block_on"
+    },
+    "facing=up,powered=false": {
+      "model": "power:block/solarcell_block_off"
+    },
+    "facing=up,powered=true": {
+      "model": "power:block/solarcell_block_on"
+    },
+    "facing=west,powered=false": {
+      "model": "power:block/solarcell_block_off"
+    },
+    "facing=west,powered=true": {
+      "model": "power:block/solarcell_block_on"
+    }
+  }
+}

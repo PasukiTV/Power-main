@@ -1,0 +1,10 @@
+{
+  "values": [
+    "power:generator_block",
+    "power:charger_block",
+    "power:cable",
+    "power:facade",
+    "power:solarcell_block",
+    "power:battery_block"
+  ]
+}
